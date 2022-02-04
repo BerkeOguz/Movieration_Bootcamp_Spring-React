@@ -53,7 +53,7 @@ Movieration is a web app that users can rate, comment, add watched list and sort
 
 - Swagger UI
 - Cloudinary
-- Amazon Rekognition
+- Amazon Recognition
 - React.js
 - Semantic UI
 - Font Awesome React
